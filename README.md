@@ -1,2 +1,2 @@
 # Test Repo
-Simpelt test repository for sammarbeid mellom flere
+Enkel test repository for sammarbeid.
